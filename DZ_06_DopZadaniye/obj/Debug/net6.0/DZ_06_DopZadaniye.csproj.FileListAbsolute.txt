@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\bin\Debug\net6.0\DZ_06_DopZadaniye.exe
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\bin\Debug\net6.0\DZ_06_DopZadaniye.deps.json
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\bin\Debug\net6.0\DZ_06_DopZadaniye.runtimeconfig.json
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\bin\Debug\net6.0\DZ_06_DopZadaniye.dll
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\bin\Debug\net6.0\DZ_06_DopZadaniye.pdb
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\obj\Debug\net6.0\DZ_06_DopZadaniye.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\obj\Debug\net6.0\DZ_06_DopZadaniye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\obj\Debug\net6.0\DZ_06_DopZadaniye.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\obj\Debug\net6.0\DZ_06_DopZadaniye.AssemblyInfo.cs
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\obj\Debug\net6.0\DZ_06_DopZadaniye.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\obj\Debug\net6.0\DZ_06_DopZadaniye.dll
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\obj\Debug\net6.0\refint\DZ_06_DopZadaniye.dll
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\obj\Debug\net6.0\DZ_06_DopZadaniye.pdb
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\obj\Debug\net6.0\DZ_06_DopZadaniye.genruntimeconfig.cache
+C:\Users\User\Desktop\DZ_8_SemC#\DZ_06_DopZadaniye\obj\Debug\net6.0\ref\DZ_06_DopZadaniye.dll
